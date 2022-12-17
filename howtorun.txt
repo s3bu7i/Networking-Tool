@@ -1,0 +1,20 @@
+İlk öncə cmd-yə daxil oluruq və aşağıda yazdığım əmrləri yazırıq.
+Əgər kompyuterinizdə python yoxdursa bu link ilə yükləyə bilərsiniz: https://www.python.org/downloads/
+
+Bundan sonra pip kitabxansın qurraşdırırıq.
+cmd də "py get-pip.py" bunu yazın.
+
+
+pip install sockets
+pip install concur --- bu kitabxana yükləndiyi zaman erorr versə bir problem yoxdur
+pip install tk
+pip install alive-progress
+pip install Everything-Tkinter
+
+
+--------------------------------------------------------------------------------
+İlk öncə Network Tool faylının içərisinə daxil oluruq.Netwok Tool faylı içərisində cmd açırıq və 
+"py network.py" bunu daxil edirik. Qarşımıza cmd-də loading yazısı gələcək 100% olduqda program aktiv olacaq.
+Açılan interface-də 3 seçimdən birini seçirsiniz, məsələn birincini seçirik.
+Sonra cmd(command promete) də həmin tool aktiv olacaq və sizdən isdədiyi məlumatları daxil edərək verdiyi nəticələri görə bilərsiniz.
+cmd-də none yazısı gədikdə program bitmiş olur və siz interface də başqa bir seçim edərək onu edə bilirsiniz. 
